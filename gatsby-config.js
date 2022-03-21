@@ -21,13 +21,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `project-iris`,
-        short_name: `iris`,
+        name: `Project:Iris`,
+        short_name: `Project:Iris`,
         start_url: `/`,
         background_color: `#111827`,
-        // theme_color: `#663399`,
+        theme_color: `#1f2937`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/gatsby-icon.png`,
       },
     },
   ],
