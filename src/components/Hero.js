@@ -1,6 +1,4 @@
 import * as React from "react"
-
-import { SiLinktree } from "react-icons/si"
 import { SiDiscord } from "react-icons/si"
 import { SiTwitter } from "react-icons/si"
 
@@ -21,9 +19,8 @@ const Hero = () => {
                 </div>
 
                 <div className="flex flex-wrap justify-center mt-8 space-x-6 text-3xl">
-                    <a className="transform hover:scale-125 duration-300 ease-in-out" href="https://linktr.ee/projectirisnft" target="_blank" rel="noreferrer"><SiLinktree /></a>
                     <a className="transform hover:scale-125 duration-300 ease-in-out" href="https://discord.gg/nd6ANSuRWa" target="_blank" rel="noreferrer"><SiDiscord /></a>
-                    <a className="transform hover:scale-125 duration-300 ease-in-out" href="https://twitter.com/ProjectIrisNFT" target="_blank" rel="noreferrer"><SiTwitter /></a>
+                    <a className="transform hover:scale-125 duration-300 ease-in-out" href="https://twitter.com/IntoIrisVerse" target="_blank" rel="noreferrer"><SiTwitter /></a>
                 </div>  
             </div>
         </div>

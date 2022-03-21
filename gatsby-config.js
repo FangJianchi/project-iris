@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Project:Iris`,
-    description: `Project: Iris is a collection of 10,000 NFTs that give you access to Iris:Verse.`,
-    author: `@FangJianchi`,
+    description: `A collection of 10,000 NFTs that give you access to Iris:Verse.`,
+    author: `@Project:Iris`,
     siteUrl: `http://projectiris.online/`,
   },
   plugins: [
