@@ -1,4 +1,5 @@
 import * as React from "react"
+
 import { SiDiscord } from "react-icons/si"
 import { SiTwitter } from "react-icons/si"
 
@@ -24,8 +25,6 @@ const Hero = () => {
                 </div>  
             </div>
         </div>
-
-        
     )
 }
 

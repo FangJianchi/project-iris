@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
+
 import { SiDiscord } from "react-icons/si"
 import { SiTwitter } from "react-icons/si"
 
