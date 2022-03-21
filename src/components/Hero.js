@@ -10,7 +10,7 @@ const Hero = () => {
                 <h1 className="pb-3 text-5xl font-extrabold leading-10 tracking-tight text-gradient sm:leading-none md:text-5xl lg:text-6xl">
                     <span className="text-gradient">Project:Iris</span>
                 </h1>
-                <p className="max-w-xl mx-auto mt-5 text-2xl sm:leading-relaxed sm:text-2xl block sm:block">
+                <p className="max-w-xl mx-auto mt-5 text-xl sm:leading-relaxed sm:text-2xl block sm:block">
                    A collection of 10,000 NFTs
                     <span className="block">that give you access to Iris:Verse</span>
                 </p>
